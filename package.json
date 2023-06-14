@@ -1,6 +1,6 @@
 {
   "name": "jquery.inputfilter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery plugin for adding filters to forms input and textarea, like numeric input only.",
   "main": "index.js",
   "repository": {
