@@ -216,3 +216,6 @@ pip-log.txt
 .mr.developer.cfg
 bundleconfig.json
 /.vs
+
+# node
+node_modules/

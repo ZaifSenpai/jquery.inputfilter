@@ -4,6 +4,8 @@
 /// Released under MIT license
 /// ver 1.1
 
+import $ from "jquery";
+
 (function ($) {
     $.fn.inputfilter = function (options) {
         var settings = $.extend({
@@ -63,4 +65,4 @@
             }
         });
     };
-}(jQuery));
+}($));

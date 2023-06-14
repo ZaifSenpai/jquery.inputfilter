@@ -1,0 +1,19 @@
+{
+  "name": "jquery.inputfilter",
+  "version": "1.0.0",
+  "description": "jQuery plugin for adding filters to forms input and textarea, like numeric input only.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaifSenpai/jquery.inputfilter.git"
+  },
+  "author": "Zaif Senpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaifSenpai/jquery.inputfilter/issues"
+  },
+  "homepage": "https://github.com/ZaifSenpai/jquery.inputfilter#readme",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
