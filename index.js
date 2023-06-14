@@ -1,8 +1,13 @@
-﻿/// This plugin for jQuery (1.7+) is created by Anders Fjällström - anders@morriz.net - http://www.morriz.net
-/// For documentation see https://github.com/morriznet/jquery.inputfilter
+﻿/// See: https://github.com/ZaifSenpai/jquery.inputfilter
+///
+/// This plugin for jQuery (1.7+)
 /// The plugin is used to create filters for form input and textarea
-/// Released under MIT license
+
+/// Original version info:
+/// by Anders Fjällström - anders@morriz.net - http://www.morriz.net
+/// https://github.com/morriznet/jquery.inputfilter
 /// ver 1.1
+/// Released under MIT license
 
 import $ from "jquery";
 
