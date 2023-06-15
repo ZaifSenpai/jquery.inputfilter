@@ -10,9 +10,10 @@ npm install jquery.inputfilter
 
 ## Usage
 
-Include _jquery.inputfilter.js_ after jQuery (1.7+) and set it to the objects you want to filter
+import after jquery and configure `inputfilter()` to the jquery elements you want to apply filter
 
 ```js
+import $ from "jquery";
 import "jquery.inputfilter";
 
 // Standard options
